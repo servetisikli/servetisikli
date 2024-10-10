@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Full Stack Developer
+# Full Stack Web Developer
 MERN Stack Web Development
 
 ## 🔭 Technologies
