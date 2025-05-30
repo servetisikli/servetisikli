@@ -6,7 +6,7 @@ Frontend and Backend Development | JavaScript Developer – MERN Stack | TypeScr
 
 ## 🔭 Skills
 
-**Frontend:** 
+### Frontend: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
@@ -19,12 +19,12 @@ Frontend and Backend Development | JavaScript Developer – MERN Stack | TypeScr
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-**UI/UX Design:** 
+### UI/UX Design: 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
-**Backend:** 
+### Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -36,20 +36,20 @@ Frontend and Backend Development | JavaScript Developer – MERN Stack | TypeScr
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
 
-**Databases:** 
+### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**CMS & Platforms:** 
+### CMS & Platforms: 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
 
-**Tools & DevOps:** 
+### Tools & DevOps:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Unix Shell](https://img.shields.io/badge/Unix%20Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -117,5 +117,3 @@ Frontend and Backend Development | JavaScript Developer – MERN Stack | TypeScr
 <a href="mailto:contact@servetisikli.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-<!-- Last updated: 2025-05-30 12:38:19 by servetisikli -->
