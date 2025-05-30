@@ -62,58 +62,40 @@ Frontend and Backend Development | JavaScript Developer – MERN Stack | TypeScr
 
 ## 📂 Selected Projects
 
-### E-Commerce Web Site - MERN Stack | <a href="https://takstore.eu" target="_blank">TakStore.eu</a>
-<a href="https://github.com/servetisikli/takstore-eu-mern-backend-public-version" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Backend-181717?style=flat&logo=github&logoColor=white" alt="GitHub Backend">
-</a>
-<a href="https://github.com/servetisikli/takstore-eu-mern-frontend-public-version" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Frontend-181717?style=flat&logo=github&logoColor=white" alt="GitHub Frontend">
-</a>
+### E-Commerce Web Site - MERN Stack | [TakStore.eu](https://takstore.eu)
+[![GitHub Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=flat&logo=github&logoColor=white)](https://github.com/servetisikli/takstore-eu-mern-backend-public-version)
+[![GitHub Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat&logo=github&logoColor=white)](https://github.com/servetisikli/takstore-eu-mern-frontend-public-version)
 - Developed a secure full-stack e-commerce app using JWT and HTTP-Only cookies for authentication
 - Integrated Brevo API for email verification and password reset
 - Implemented Stripe payment processing system
 - Enhanced security with Helmet, CORS, and input sanitization
 
-### Volunteer Project - MERN Stack | <a href="https://offnedietur.de" target="_blank">OffnedieTur.de</a>
-<a href="https://github.com/servetisikli/offnedietur-mern-backend-public-version" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Backend-181717?style=flat&logo=github&logoColor=white" alt="GitHub Backend">
-</a>
-<a href="https://github.com/servetisikli/offnedietur-mern-frontend-public-version" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Frontend-181717?style=flat&logo=github&logoColor=white" alt="GitHub Frontend">
-</a>
+### Volunteer Project - MERN Stack | [OffnedieTur.de](https://offnedietur.de)
+[![GitHub Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=flat&logo=github&logoColor=white)](https://github.com/servetisikli/offnedietur-mern-backend-public-version)
+[![GitHub Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat&logo=github&logoColor=white)](https://github.com/servetisikli/offnedietur-mern-frontend-public-version)
 - Built a consultancy portal for non-profits with JWT authentication and HTTP-Only cookies
 - Implemented email verification and password recovery via Brevo API
 - Added XSS protection and comprehensive security measures
 - Created dynamic form-based content management with validation
 
-### E-Commerce Web Site - Angular Frontend | <a href="https://ecommerce-angular-5ync.vercel.app" target="_blank">Live Demo</a>
-<a href="https://github.com/servetisikli/ecommerce-angular" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repository">
-</a>
+### E-Commerce Web Site - Angular Frontend | [Live Demo](https://ecommerce-angular-5ync.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/servetisikli/ecommerce-angular)
 - Responsive single-page e-commerce application built with Angular and TypeScript
 - Features include product listing with category filtering, live search, and order management
 - Implemented with reusable components, form validation, and modular frontend architecture
 
 ### CMS Web Application - Python/Django
-<a href="https://github.com/servetisikli/django-blog-app-project" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repository">
-</a>
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/servetisikli/django-blog-app-project)
 - Comprehensive CMS web application with Django and REST Framework backend
 - Implemented request/response handling, URL routing, models, views, and user authentication
 - Developed permissions system, validation, and CRUD operations for efficient data management
 
 ### Real-Time Chat Application - Express/Socket.io
-<a href="https://github.com/servetisikli/real-time-chat-app-socket-io-server" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repository">
-</a>
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/servetisikli/real-time-chat-app-socket-io-server)
 - Built a real-time chat application for instant messaging
 - Developed with Express.js and Socket.io for real-time communication
 - Integrated with MongoDB for message persistence
 
 ## 📫 Contact Me  
-<a href="https://www.linkedin.com/in/servetisikli" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:contact@servetisikli.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/servetisikli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@servetisikli.com)
