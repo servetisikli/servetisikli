@@ -91,6 +91,14 @@ Frontend and Backend Development | JavaScript Developer – MERN Stack (MongoDB,
 - Developed with Express.js and Socket.io for real-time communication
 - Integrated with MongoDB for message persistence
 
+### Appointment System - Clean Architecture (.NET 9, ASP.NET Core, Web API)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/servetisikli/appointment-system-clean-architecture)
+- Modern .NET 9 Web API backend built with Clean Architecture principles
+- Layered structure: API, Application, Domain, Infrastructure
+- Entity Framework Core for data access
+- Swagger UI for documentation and testing
+- Easily extensible for React or other frontend frameworks
+
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/servetisikli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@servetisikli.com)
