@@ -3,6 +3,10 @@
 ## Full-Stack Web and Software Developer
 
 Frontend and Backend Development | JavaScript Developer – MERN Stack (MongoDB, Express.js, React, Node.js) | TypeScript / Angular – C# / .NET | Python / Django
+Frontend and Backend Development – Focus on JavaScript
+JavaScript: MERN Stack (MongoDB, Express.js, React, Node.js)
+TypeScript: Angular | C# / .NET: ASP.NET Core
+Python (Django, Django REST Framework)
 
 ## 🔭 Skills
 
