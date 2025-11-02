@@ -8,60 +8,53 @@
 
 ---
 
-## 🎯 Technical Skills
+## 🛠️ Technical Expertise
 
-**Frontend Development**
-- JavaScript, TypeScript, HTML5, CSS3
-- React, Next.js, Redux, Angular
-- Tailwind CSS, Bootstrap, Sass
-- Figma, Adobe XD, Framer Motion
+### Frontend Development
+JavaScript • TypeScript • React • Next.js • Angular • Redux  
+HTML5 • CSS3 • Tailwind CSS • Bootstrap • Sass  
+Figma • Adobe XD • Framer Motion
 
-**Backend Development & APIs**
-- Node.js, Express.js
-- C#, .NET Framework/Core
-- Python, Django, Django REST Framework
-- RESTful API Design & Implementation
-- OpenAPI/Swagger Documentation
-- Socket.IO for real-time applications
+### Backend Development & APIs
+Node.js • Express.js • C# • .NET Core  
+Python • Django • Django REST Framework  
+RESTful API Design • OpenAPI/Swagger • Socket.IO  
+JWT Authentication • OAuth • Session Management
 
-**Databases & Tools**
-- MongoDB, MySQL, PostgreSQL, Firebase
-- Git, GitHub, Linux, Unix Shell
-- VS Code, Visual Studio, Postman
-- Webpack, Babel
+### Databases & DevOps
+MongoDB • PostgreSQL • MySQL • Firebase  
+Git • GitHub • Linux • Docker  
+VS Code • Visual Studio • Postman
 
-**CMS & E-Commerce Platforms**
-- WordPress, WooCommerce
-- Shopify, Joomla, Drupal
-
-
+### CMS & E-Commerce
+WordPress • WooCommerce • Shopify • Joomla • Drupal
 
 ---
 
-## 🔧 Core Competencies
+## 💡 Core Competencies
 
-**API Development & Integration**
-- RESTful service design and implementation
-- Third-party API integration (Stripe, Brevo, payment gateways)
-- Authentication strategies (JWT, OAuth, session management)
-- API documentation with OpenAPI/Swagger standards
+**API Development & Integration**  
+• RESTful service architecture and implementation  
+• Third-party API integration (Stripe, Brevo, Payment Gateways)  
+• Authentication strategies and security protocols  
+• Comprehensive API documentation with OpenAPI/Swagger
 
-**Security & Performance**
-- Application security best practices implementation
-- XSS, CSRF, and SQL injection prevention
-- Performance optimization and caching strategies
-- Comprehensive error handling and logging systems
+**Security & Performance**  
+• Application security best practices  
+• XSS, CSRF, and SQL injection prevention  
+• Performance optimization and caching strategies  
+• Error handling and logging systems
 
-**Architecture & Design**
-- Clean Architecture and SOLID principles
-- Component-based frontend architecture
-- Database design and optimization
-- Scalable application structure and patterns
-
-*Building secure, scalable, and maintainable software solutions*
+**Architecture & Design Patterns**  
+• Clean Architecture and SOLID principles  
+• Component-based frontend architecture  
+• Database design and optimization  
+• Scalable system architecture
 
 ---
 
-## 📫 Contact Me  
+**Building secure, scalable, and maintainable software solutions**
+
+## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/servetisikli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@servetisikli.com)
