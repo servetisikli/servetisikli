@@ -10,7 +10,7 @@ excellence with business impact.
 
 **Application Development**  
 Modern JavaScript/TypeScript ecosystems • Component-based architectures  
-Enterprise frameworks (.NET, Django) • Real-time systems
+Enterprise frameworks (Node.js, .NET, Django) • Real-time systems
 
 **API & Integration**  
 RESTful architecture • API design & documentation  
